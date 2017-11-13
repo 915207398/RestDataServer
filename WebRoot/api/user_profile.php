@@ -3,7 +3,7 @@
 "message":"Ok",
 "data":{
    "userId":1,
-   "name":"XX",
+   "name":"Cai",
    "avatar":"https://github.com/915207398/FastEC-T",
    "gender":"男",
    "address":"重庆"
