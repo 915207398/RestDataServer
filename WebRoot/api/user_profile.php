@@ -1,0 +1,11 @@
+{
+"code":0,
+"message":"Ok",
+"data":{
+   "userId":1,
+   "name":"XX",
+   "avatar":"https://github.com/915207398/FastEC-T",
+   "gender":"男",
+   "address":"重庆"
+}
+}
