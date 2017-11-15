@@ -1,0 +1,17 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "goodsId": 1,
+      "text": "分页附加1",
+      "imageUrl": "http://pic28.nipic.com/20130424/11588775_115415688157_2.jpg",
+      "spanSize": 4
+    },
+    {
+      "goodsId": 2,
+      "text": "分页附加2",
+      "imageUrl": "http://pic33.nipic.com/20130907/12906030_161342990000_2.png",
+      "spanSize": 4
+    }
+  ]
+}
