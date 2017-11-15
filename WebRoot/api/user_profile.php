@@ -5,7 +5,7 @@
    "userId":1,
    "name":"Cai",
    "avatar":"https://github.com/915207398/FastEC-T",
-   "gender":"man",
+   "gender":"manc",
    "address":"ChongQing"
 }
 }
