@@ -2,8 +2,8 @@
 "code":0,
 "message":"Ok",
 "data":{
-   "userId":1,
-   "name":"Cai",
+   "userId":2,
+   "name":"CaiPengFei",
    "avatar":"https://github.com/915207398/FastEC-T",
    "gender":"mam",
    "address":"Chongqing"
